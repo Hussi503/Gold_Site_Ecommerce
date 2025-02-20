@@ -13,7 +13,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 
 ###the below docker file to be commented if you are practising before helm charts###
-FROM nginx:alpine
-COPY build /usr/share/nginx/html
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+#FROM nginx:alpine
+#COPY build /usr/share/nginx/html
+#EXPOSE 80
+#CMD ["nginx", "-g", "daemon off;"]
