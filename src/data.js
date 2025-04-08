@@ -2,7 +2,7 @@ export const sliderItems = [
   {
     id: "1",
     img: "assets/braclet/main.jfif",
-    title: "Now iam in DAY-5 Of Project Deployed React-application through Ansible",
+    title: "Now iam in DAY-6 Of Project Deployed React-application through jenkins",
     desc: "This is DAY-5 commit",
     bg: "yellow",
   },
